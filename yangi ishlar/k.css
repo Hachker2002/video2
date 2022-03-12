@@ -1,0 +1,53 @@
+.box{
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    border: 20px;
+
+   
+
+}
+.kod1{
+    text-decoration: underline overline;
+    color: darkblue;
+    font-family: georgia;
+}
+.img{
+    size: 10px;
+    width: 250px;
+    border: 2px solid chocolate;
+    border-radius: 50px;
+    padding: 5px;
+}
+.kod2{
+    
+    text-decoration: underline overline;
+    color:rgb(194, 36, 36) ;
+    font-family: georgia;
+    
+    
+
+}
+body{
+    background-color: rgb(219, 203, 204);
+}
+.kod3{
+    color: rgb(204, 41, 41);
+    background-color: rgb(55, 54, 56);
+    text-align: center;
+    padding: 20px;
+    border-width: 5px;
+    border-style: solid;
+    margin: 40px;
+    font-family: monaco;
+    
+
+}
+.img1{
+    size: 10px;
+    width: 252px;
+    border: 2px solid rgb(228, 100, 9);
+    border-radius: 50px;
+    padding: 5px;
+    
+}
